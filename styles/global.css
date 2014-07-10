@@ -41,7 +41,7 @@ h4 {
   margin: 15px 0 5px 0;
 }
 a {
-  color: #e33258;
+  color: #33CC33;
   text-decoration: none;
 }
 input {
@@ -87,10 +87,10 @@ input {
   color: #eee;
   padding: 20px 0 30px 0;
   text-align: center;
-  border-bottom: solid 16px #e33258;
+  border-bottom: solid 16px #33CC33;
 }
 .Header a {
-  color: #e33258;
+  color: #33CC33;
   text-shadow: none;
   font-weight: 700;
 }
@@ -101,8 +101,8 @@ input {
   text-align: center;
   font-size: 4rem;
   line-height: 1.9;
-  color: #e33258;
-  text-shadow: 0 0 10px #e33258;
+  color: #33CC33;
+  text-shadow: 0 0 10px #33CC33;
 }
 .Header-logo span {
   color: #eee;
@@ -174,8 +174,8 @@ input {
   text-align: left;
   padding: 10px 10px 0 10px;
   margin: 10px 0 0 0;
-  color: #e33258;
-  border-top: dashed 1px #e33258;
+  color: ##33CC33;
+  border-top: dashed 1px ##33CC33;
 }
 .Recent a:hover {
   text-decoration: underline;
@@ -202,7 +202,7 @@ input {
   width: 100%;
 }
 .SmallHeader {
-  background: #e33258;
+  background: #33CC33;
   color: #eee;
   padding: 20px 0 0 0;
   border-bottom: solid 16px #fff;
